@@ -16,4 +16,4 @@ This project is a clone of the <b><i>NETFLIX</i></b> landing page created using 
 
 ## Screenshots
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7220089755609219074/">Visit Linked to view the Screen Shots</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7220089755609219074/" target="_blank">Visit Linked to view the Screen Shots</a>
